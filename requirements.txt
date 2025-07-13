@@ -1,0 +1,50 @@
+# Default
+hyperopt==0.2.7
+ipywidgets>=8
+matplotlib==3.7.1
+mlflow==2.3.1
+nltk==3.8.1
+numpy==1.24.3
+numpyencoder==0.3.0
+pandas==2.0.1
+python-dotenv==1.0.0
+ray[air]==2.7.0
+scikit-learn==1.2.2
+snorkel==0.9.9
+SQLAlchemy==1.4.48
+torch==2.0.0
+transformers==4.28.1
+
+# Notebook
+cleanlab==2.3.1
+jupyterlab==3.6.3
+lime==0.2.0.1
+seaborn==0.12.2
+wordcloud==1.9.2
+
+# Documentation
+mkdocs==1.4.2
+mkdocstrings==0.21.2
+mkdocstrings[python]>=0.18
+
+# Styling
+black==23.3.0
+flake8==6.0.0
+Flake8-pyproject==1.2.3
+isort==5.12.0
+pyupgrade==3.3.2
+
+# Testing
+great-expectations==0.16.5
+pytest==7.3.1
+pytest-cov==4.0.0
+
+# Development
+fastapi==0.95.2
+pre-commit==3.2.2
+typer==0.9.0
+
+# Deployment
+anyscale==0.5.131
+
+https://llama3-2-multimodal.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiYmptNHJoeGV2OWNuMnhkZW92dGZwbWJwIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWEzLTItbXVsdGltb2RhbC5sbGFtYW1ldGEubmV0XC8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzUxNTE3ODEwfX19XX0_&Signature=Cxm46y%7ED1K5G9PsgB%7E1a6rgecFYrVd69B5vpSzHEGJ4KmU8clg9BmbgE8SAQKu-dF2RL1cwD3MNK8nNYeBJXjrAjRfR78qaYXYSn21FQgouIKckPRyiQ%7EY%7ElBm4dBBjsY3Aex1HszITBhCxo%7Exs9GHNN2POBv4QLqChmCfWFiiME7zeq6vtgB7xy%7ElCBn9Ym8nWz09yRGVZeyIVOZXC6KkCjMsSQuZ3Q1hvLWS3V6EITlhzlHDAv6nPaOrosbh4lfPZqhoZLpkIJx%7EoJyxs-a8jQSDqKIJvWMbXUXjLzg2-hbVRskduGCWt5RgmKwBzfImV9ppDP6Ww0%7E-69YYMUDg__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=1943508629757129
